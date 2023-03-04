@@ -1,8 +1,5 @@
-- 👋 Hi, I’m HoangToan
-- 👀 I’m interested in Cooking
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hoang Cong Toan.
+- Looking for job openings in software engineer
 
 <!---
 HoangToanuit/HoangToanuit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
